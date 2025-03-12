@@ -1,7 +1,7 @@
 # Hotel reservations - Power BI dashboard
 
-Full version: https://app.powerbi.com/view?r=eyJrIjoiMzAxMDNhOGQtZWMyZS00MmZlLWJmZmEtODhiOThjZjJlZDBkIiwidCI6ImVhMGViYjUwLTQwNWYtNDcwZS1hNDNlLTJjYmM0ZjI4NDNkYyJ9
+<a href="[url](https://app.powerbi.com/view?r=eyJrIjoiMzAxMDNhOGQtZWMyZS00MmZlLWJmZmEtODhiOThjZjJlZDBkIiwidCI6ImVhMGViYjUwLTQwNWYtNDcwZS1hNDNlLTJjYmM0ZjI4NDNkYyJ9)">click for full version</a>
 
-![image](https://github.com/user-attachments/assets/0463806c-f448-480c-b425-6cd6c4bf53d7)
+<a href="[url](https://app.powerbi.com/view?r=eyJrIjoiMzAxMDNhOGQtZWMyZS00MmZlLWJmZmEtODhiOThjZjJlZDBkIiwidCI6ImVhMGViYjUwLTQwNWYtNDcwZS1hNDNlLTJjYmM0ZjI4NDNkYyJ9)">![hotel reservations](https://github.com/user-attachments/assets/60544998-b405-45a4-b5f7-3a404f187860)</a>
 
 
